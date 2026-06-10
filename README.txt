@@ -37,7 +37,7 @@ Pages:       10 main + 404 + redirect loader = 12 HTML files
 ----------------------------------------------------------
 Throughout the HTML and sitemap.xml, the placeholder domain is:
 
-   https://sportybet-ng.com/
+   https://sportybet-qatar.com/
 
 Search-and-replace this with your real production domain before deploying.
 
@@ -111,7 +111,7 @@ The site layout will still render correctly - only the visuals will be missing.
 8. DEPLOY CHECKLIST
 ----------------------------------------------------------
 [ ] Generate 5 webp images, drop into /assets/
-[ ] Replace https://sportybet-ng.com/ with real domain (sitemap + all HTML)
+[ ] Replace https://sportybet-qatar.com/ with real domain (sitemap + all HTML)
 [ ] Replace https://www.sportybet.com/ng/ in /play-sportybet/ with tracked link
 [ ] Confirm logo.webp + favicon.ico render correctly
 [ ] Submit sitemap.xml in Search Console
