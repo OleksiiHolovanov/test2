@@ -1,47 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- ============ HOME ============ -->
   <url>
     <loc>https://sportybet-qatar.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/"/>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- ============ BONUSES ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/bonuses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/bonuses/"/>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/bonuses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/bonuses/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- ============ MOBILE APP ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/mobile-app/"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/mobile-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/mobile-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/mobile-app/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- ============ LOGIN ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/login/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/login/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/login/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/login/"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/login/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/login/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/login/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/login/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- ============ ABOUT ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/about/"/>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://sportybet-qatar.com/ar/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/about/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- ============ CONTACT ============ -->
   <url>
     <loc>https://sportybet-qatar.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/contact/"/>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/contact/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- ============ RESPONSIBLE GAMING ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/responsible-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/responsible-gaming/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/responsible-gaming/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/responsible-gaming/"/>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/responsible-gaming/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/responsible-gaming/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/responsible-gaming/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/responsible-gaming/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- ============ TERMS ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/terms/"/>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://sportybet-qatar.com/ar/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/terms/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ============ PRIVACY ============ -->
+  <url>
     <loc>https://sportybet-qatar.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/privacy/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sportybet-qatar.com/ar/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sportybet-qatar.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sportybet-qatar.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sportybet-qatar.com/privacy/"/>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

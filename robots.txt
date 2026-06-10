@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /play-sportybet/
+Disallow: /ar/play-sportybet/
 
 Sitemap: https://sportybet-qatar.com/sitemap.xml
