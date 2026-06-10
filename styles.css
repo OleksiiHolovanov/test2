@@ -2,3 +2,8 @@
 
 /* PageSpeed: skip rendering sections until they approach the viewport */
 @supports(content-visibility:auto){.section,.live-strip,.site-footer{content-visibility:auto;contain-intrinsic-size:auto 620px}.hero,.site-header{content-visibility:visible}}
+
+.hero-art picture{display:block}
+
+/* Additional PageSpeed tuning */
+@media (max-width:700px){.hero-img{filter:none}.bonus-art img,.app-art img,.live-art img,.feature-media img{filter:none}}

@@ -46,7 +46,7 @@ Search-and-replace this with your real production domain before deploying.
 ----------------------------------------------------------
 In /play-sportybet/index.html the redirect target is:
 
-   https://www.sportybet.com/ng/
+   https://www.time4bets504.com/
 
 Replace this with your tracked affiliate link before deploying.
 
@@ -112,7 +112,7 @@ The site layout will still render correctly - only the visuals will be missing.
 ----------------------------------------------------------
 [ ] Generate 5 webp images, drop into /assets/
 [ ] Replace https://sportybet-qatar.com/ with real domain (sitemap + all HTML)
-[ ] Replace https://www.sportybet.com/ng/ in /play-sportybet/ with tracked link
+[ ] Replace https://www.time4bets504.com/ in /play-sportybet/ with tracked link
 [ ] Confirm logo.webp + favicon.ico render correctly
 [ ] Submit sitemap.xml in Search Console
 [ ] Spot-check responsive layout at 360px, 768px, 1280px
