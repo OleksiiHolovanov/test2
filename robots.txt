@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /play-sportybet/
+
+Sitemap: https://sportybet-ng.com/sitemap.xml
